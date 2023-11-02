@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SH3WDM157
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning C language
+- 💞️ I’m looking to collaborate on any gamedev activities
+- 📫 How to reach me shrewdmist@gmail.com
